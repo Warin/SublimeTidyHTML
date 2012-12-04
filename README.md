@@ -1,7 +1,7 @@
 TidyHTML Plugin for Sublime Text 2
 ==================================
 
-Cleanup and reindent a saved file with TidyHTML.
+Cleanup and reindent a saved file with TidyHTML. No php, no webservice required.
 
 Installation
 ------------
