@@ -13,6 +13,7 @@ Installation
     - Linux: ~/.Sublime Text 2/Packages/
 
 2. clone this repo
+3. edit the TidyHTML.sublime-settings (or even better a copy of this file on your User folder) according to your desired settings (see http://w3c.github.com/tidy-html5/quickref.html for more details)
 
 Commands
 --------
