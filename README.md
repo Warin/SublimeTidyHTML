@@ -17,7 +17,15 @@ Installation
 Commands
 --------
 
-`Ctrl|Command + Shift + P` Opens up the Console then type `TidyHTML` to converts characters to their HTML entity
+### Via the Command Palette
+
+1. `Ctrl (Win)|Command (OSX) + Shift + P` to open the Command Palette then 
+2. type `TidyHTML` to convert characters to their HTML entity
+
+### Via Keyboard Shortcut
+
+- OSX: `Command + alt +h`
+- Windows: `Ctrl + alt + h`
 
 
 Dependencies
