@@ -8,7 +8,7 @@ class TidyHtmlCommand(sublime_plugin.TextCommand):
 
         #windows require full path. Where is the binary stored relative to /Packages
         if sublime.platform() == "windows":
-            path = sublime.packages_path() + "\\SublimeTidyHTML\\bin\\tidy.exe"
+            path = sublime.packages_path() + "\\TidyHTML5\\bin\\tidy.exe"
         else:
             path = "tidy"
 

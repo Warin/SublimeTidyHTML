@@ -10,8 +10,15 @@ Installation
     - OS X: ~/Library/Application Support/Sublime Text 2/Packages/
     - Windows: %APPDATA%/Sublime Text 2/Packages/
     - Linux: ~/.Sublime Text 2/Packages/
-2. clone this repo (folder name should be `SublimeTidyHTML`)
+2. clone this repo and rename it to `TidyHTML5`
 3. edit the TidyHTML.sublime-settings (via Preferences > Package Settings > TidyHTML > Settings - User) according to your desired settings (see http://w3c.github.com/tidy-html5/quickref.html for more details)
+
+via Package Control:
+
+1. Open the Package Control Palette (`Command+shift+P`)
+2. Select the `Package Control: Install Package` entry
+3. Select the `TidyHTML5` Package
+4. Restart SublimeText if needed
 
 
 Commands
