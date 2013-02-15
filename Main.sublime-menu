@@ -17,7 +17,7 @@
 								"command": "open_file",
 								"args":
 								{
-									"file": "${packages}/SublimeTidyHTML/TidyHTML.sublime-settings"
+									"file": "${packages}/TidyHTML5/TidyHTML.sublime-settings"
 								}
 							},
 							{
@@ -32,7 +32,7 @@
                             {
 								"command": "open_file",
 								"args": {
-									"file": "${packages}/SublimeTidyHTML/Default (OSX).sublime-keymap",
+									"file": "${packages}/TidyHTML5/Default (OSX).sublime-keymap",
 									"platform": "OSX"
 								},
 								"caption": "Key Bindings – Default"
@@ -40,7 +40,7 @@
 							{
 								"command": "open_file",
 								"args": {
-									"file": "${packages}/SublimeTidyHTML/Default (Linux).sublime-keymap",
+									"file": "${packages}/TidyHTML5/Default (Linux).sublime-keymap",
 									"platform": "Linux"
 								},
 								"caption": "Key Bindings – Default"
@@ -48,7 +48,7 @@
 							{
 								"command": "open_file",
 								"args": {
-									"file": "${packages}/SublimeTidyHTML/Default (Windows).sublime-keymap",
+									"file": "${packages}/TidyHTML5/Default (Windows).sublime-keymap",
 									"platform": "Windows"
 								},
 								"caption": "Key Bindings – Default"
