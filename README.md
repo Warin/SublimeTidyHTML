@@ -42,3 +42,10 @@ Based on https://github.com/w3c/tidy-html5
 
 - Windows: binary provided via http://tidybatchfiles.info/tidy.zip
 - OSX: Require separate install for best results (for HTML5 compatibility)
+
+
+Version History
+---------------
+- 1.1.0: Rewrote the settings file to support a user defined extensions list
+- 1.0.1: Bugfix in the command file
+- 1.0.0: Initial release
